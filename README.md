@@ -4,3 +4,4 @@
 
 • String
 
+• Numbers
