@@ -5,3 +5,5 @@
 • String
 
 • Numbers
+
+• Function
