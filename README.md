@@ -7,3 +7,6 @@
 • Numbers
 
 • Function
+
+• Booleans
+
