@@ -12,3 +12,4 @@
 
 • Logical operators
 
+• Array
