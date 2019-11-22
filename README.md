@@ -13,3 +13,5 @@
 • Logical operators
 
 • Array
+
+• Loops
