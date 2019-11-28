@@ -15,3 +15,5 @@
 • Array
 
 • Loops
+
+• Dictionaries
